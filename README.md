@@ -1,6 +1,6 @@
 ## Backpropagation Feature Contribution
 
-: Validating input contribution with Backpropagation in ANNs 
+### Validating input contribution with Backpropagation in ANNs 
 
 **📌 Project Overview**
 
