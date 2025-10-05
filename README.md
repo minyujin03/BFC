@@ -19,3 +19,15 @@ This method stands in contrast to the forward method implemented in the previous
 3. Validate that the results are consistent with the contribution estimates obtained from the forward method in previous research.
 
 ---
+```bash
+git clone https://github.com/yrc00/SPADE.git
+cd BFC
+```
+
+
+```python
+conda create -n BFC python=3.10
+conda activate BFC
+pip install -r requirements.txt
+python BFC_execution.py
+```
