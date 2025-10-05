@@ -23,7 +23,7 @@ This method stands in contrast to the forward method implemented in the previous
 
 **1. 레포지토리 클론**
 ```bash
-git clone https://github.com/yrc00/SPADE.git
+git clone https://github.com/minyujin03/BFC.git
 cd BFC
 ```
 
