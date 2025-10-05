@@ -4,11 +4,11 @@
 
 **📌 Project Overview**
 
-This project implements and validates a backward approach for calculating the contribution of each input feature to the final network output.  
+In this project, we implement and validate a backward approach to compute the influence of each input feature on the final output. 
 
-This method stands in contrast to the forward method implemented in the previous work.
+This method stands in contrast to the forward method implemented in the previous research.
 
-**📚 Related Research**
+**📚 Previous Research**
 
 - **Paper:** [Explaining Neural Networks using Input Feature Contributions](https://peerj.com/articles/cs-2802/)  
 - **GitHub Repository:** [NNexplainer](https://github.com/dkumango/NNexplainer.git)
