@@ -1,4 +1,4 @@
-### Backpropagation Feature Contribution
+## Backpropagation Feature Contribution
 
 : Validating input contribution with Backpropagation in ANNs 
 
@@ -19,7 +19,7 @@ This method stands in contrast to the forward method implemented in the previous
 3. Validate that the results are consistent with the contribution estimates obtained from the forward method in previous research.
 
 ---
-## 📦 다운로드 및 설치
+### 📦 다운로드 및 설치
 
 **1. 레포지토리 클론**
 ```bash
@@ -38,3 +38,4 @@ pip install -r requirements.txt
 ```python
 python BFC_execution.py
 ```
+
