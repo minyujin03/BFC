@@ -12,3 +12,8 @@ This method stands in contrast to the forward method implemented in the previous
 
 - **Paper:** [Explaining Neural Networks using Input Feature Contributions](https://peerj.com/articles/cs-2802/)  
 - **GitHub Repository:** [NNexplainer](https://github.com/dkumango/NNexplainer.git)
+
+**🎯 Objectives**
+1. Implement a backward approach to estimate input feature contributions.
+2. Indicate how much each input feature contributes to the final output.
+3. Validate that the results are consistent with the contribution estimates obtained from the forward method in previous research.
