@@ -1,3 +1,3 @@
-# BFC(Backpropagation Feature Contribution)
+## BFC: Backpropagation Feature Contribution
 
-## Goal: Validating input contribution with Backpropagation in ANNs 
+### Goal: Validating input contribution with Backpropagation in ANNs 
